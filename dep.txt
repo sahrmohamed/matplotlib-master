@@ -1,0 +1,6 @@
+dep,maleemp,femaleemp
+eng,50,20
+teach,40,100
+medicine,70,35
+politics,100,20
+law,78,38

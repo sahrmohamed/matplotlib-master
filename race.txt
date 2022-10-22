@@ -1,0 +1,5 @@
+race,count
+white,50
+black,60
+latino,35
+asian,25
